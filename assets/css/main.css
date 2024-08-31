@@ -3247,7 +3247,7 @@ input, select, textarea {
 
 			#footer > .inner section:nth-child(2) {
 				width: calc(33% - 2.5em);
-				margin-left: 2.0;
+				margin-left: 0.0;
 			}
 
 		}
