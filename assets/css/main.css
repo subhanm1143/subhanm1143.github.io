@@ -3228,12 +3228,12 @@ input, select, textarea {
 
 				#footer > .inner section:nth-child(1) {
 					width: calc(66% - 1.25em);
-					margin-right: 1.25em;
+					margin-right: 0;
 				}
 
 				#footer > .inner section:nth-child(2) {
 					width: calc(33% - 1.25em);
-					margin-left: 1.25em;
+					margin-left: 0;
 				}
 
 		}
